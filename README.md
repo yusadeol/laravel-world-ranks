@@ -1,22 +1,9 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4a0291e6-3d74-425c-8d5a-f9e845653281" width="400">
-</p>
+# World Ranks
 
-<h1 align="center">World Ranks</h1>
+The challenge was to build a country ranking page that accurately followed the provided design. I also developed a complete back-end capable of delivering dynamic country data such as population, area (in km²), and flags, all generated for demonstration purposes. The project was built using PHP with the Laravel framework, integrated with InertiaJS and VueJS, ensuring a robust structure and a smooth, dynamic front-end experience.
 
-<div align="center">
-   Solução para um desafio de <a href="https://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
+## Description
+World Ranks is a fully functional demonstration project that simulates a country ranking system. It provides dynamically generated country information and showcases an integration between Laravel, InertiaJS, and VueJS to create a modern, interactive application. The focus of the project is to replicate a clean design, demonstrate API handling, and present dynamic UI updates through an optimized full-stack workflow.
 
-<br>
-
-O desafio consistiu em criar uma página de classificação de países que seguisse fielmente o design fornecido.
-Além disso, desenvolvi um back-end completo capaz de fornecer dados dinâmicos sobre os países, incluindo população,
-área (em km²) e bandeiras. Esses dados são fictícios e gerados dinamicamente para fins de demonstração.
-
-O projeto foi desenvolvido utilizando PHP com o framework Laravel, integrado ao InertiaJS e VueJS, garantindo uma
-aplicação robusta e com uma experiência dinâmica no front-end.
-
-### Contato
-
-- Linkedin [@Yuri Oliveira](https://www.linkedin.com/in/yuri-sales-de-oliveira)
+## License
+World Ranks is open-sourced software licensed under the [MIT license](LICENSE).
